@@ -10,3 +10,4 @@ Icon
 logs
 *.log
 vendor
+config/nginx/ssl
